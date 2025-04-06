@@ -1,0 +1,13 @@
+train: yolo-dataset/train/images
+val: yolo-dataset/valid/images
+test: yolo-dataset/test/images
+
+nc: 1
+names: ['bia']
+
+roboflow:
+  workspace: frame-ukrhr
+  project: my-first-project-3qr9r
+  version: 1
+  license: Public Domain
+  url: https://universe.roboflow.com/frame-ukrhr/my-first-project-3qr9r/dataset/1
