@@ -1,0 +1,6 @@
+train: bia-4-obb-dataset/train/images
+val: bia-4-obb-dataset/valid/images
+test: bia-4-obb-dataset/test/images
+
+names: 
+  0: bia

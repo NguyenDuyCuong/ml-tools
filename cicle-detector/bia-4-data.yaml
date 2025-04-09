@@ -1,0 +1,13 @@
+train: bia-4-dataset/train/images
+val: bia-4-dataset/valid/images
+test: bia-4-dataset/test/images
+
+nc: 1
+names: ['bia']
+
+roboflow:
+  workspace: frame-ukrhr
+  project: my-first-project-3qr9r
+  version: 3
+  license: Public Domain
+  url: https://universe.roboflow.com/frame-ukrhr/my-first-project-3qr9r/dataset/3

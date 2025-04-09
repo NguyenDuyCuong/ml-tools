@@ -1,6 +1,6 @@
-train: ../train/images
-val: ../valid/images
-test: ../test/images
+train: bia-7-dataset/train/images
+val: bia-7-dataset/valid/images
+test: bia-7-dataset/test/images
 
 nc: 1
 names: ['bia']
