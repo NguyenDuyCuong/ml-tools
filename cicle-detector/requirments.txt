@@ -5,5 +5,7 @@ torch
 torchvision
 tqdm
 opencv-contrib-python
+scikit-image
+scikit-learn
 
 labelImg
