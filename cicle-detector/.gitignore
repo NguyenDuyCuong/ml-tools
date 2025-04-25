@@ -1,7 +1,7 @@
-images/
+/images
+!/images/*
+
 .venv/
-runs/
-yolo-models/
-*.pt
+/runs
 *.cache
-!.gitkeep
+/yolo-models
