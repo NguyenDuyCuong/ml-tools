@@ -2,12 +2,12 @@ train: ../train/images
 val: ../valid/images
 test: ../test/images
 
-nc: 1
-names: ['bia']
+nc: 3
+names: ['bia', 'chan', 'objects']
 
 roboflow:
   workspace: frame-ukrhr
   project: my-first-project-3qr9r
-  version: 4
+  version: 5
   license: Public Domain
-  url: https://universe.roboflow.com/frame-ukrhr/my-first-project-3qr9r/dataset/4
+  url: https://universe.roboflow.com/frame-ukrhr/my-first-project-3qr9r/dataset/5

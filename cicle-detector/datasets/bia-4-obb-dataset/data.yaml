@@ -4,3 +4,5 @@ test: test/images
 
 names: 
   0: bia
+  1: chan
+  2: objects

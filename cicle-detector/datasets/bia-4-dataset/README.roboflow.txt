@@ -1,8 +1,8 @@
 
-My First Project - v4 2025-04-25 6:20pm
+My First Project - v5 2025-05-09 9:17am
 ==============================
 
-This dataset was exported via roboflow.com on April 25, 2025 at 2:58 PM GMT
+This dataset was exported via roboflow.com on May 9, 2025 at 2:19 AM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects
@@ -21,8 +21,6 @@ The dataset includes 175 images.
 Objects are annotated in YOLOv11 format.
 
 The following pre-processing was applied to each image:
-* Auto-orientation of pixel data (with EXIF-orientation stripping)
-* Resize to 640x640 (Stretch)
 * Grayscale (CRT phosphor)
 * Auto-contrast via contrast stretching
 
